@@ -1,1 +1,3 @@
-dynamic-link-library
+# dynamic-link-library
+
+Dynamic-link-library template for Rust
